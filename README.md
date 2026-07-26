@@ -16,7 +16,7 @@
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Contact
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Email.Personal:............gabmayotru@email.com
-  .*@@@@@@@@@+       +@@@@@@@@@+.          Resume:.....................Available Upon Request
-  .*@@@@#:.     BTS     .-#@@@@+.          LinkedIn:..................linkedin.com/in/gabriela-mayorga-trujillo-555b852a9/
-  .*@@*:.                ..:*@@+.          GitHub:....................github.com/GabyMayo        
+  .*@@@@@@@@@+       +@@@@@@@@@+.          LinkedIn:..................linkedin.com/in/gabriela-mayorga-trujillo-555b852a9/
+  .*@@@@#:.     BTS     .-#@@@@+.          Resume:.....................Available Upon Request
+  .*@@*:.                ..:*@@+.          Portfolio:.................coming soon     
 ```
