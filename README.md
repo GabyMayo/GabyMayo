@@ -17,6 +17,6 @@
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Contact
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Email.Personal:............gabmayotru@email.com
   .*@@@@@@@@@+       +@@@@@@@@@+.          LinkedIn:..................linkedin.com/in/gabriela-mayorga-trujillo-555b852a9/
-  .*@@@@#:.     BTS     .-#@@@@+.          Resume:.....................Available Upon Request
+  .*@@@@#:.     BTS     .-#@@@@+.          Resume:....................Available Upon Request
   .*@@*:.                ..:*@@+.          Portfolio:.................coming soon     
 ```
