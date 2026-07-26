@@ -7,8 +7,8 @@
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Role:.......................Computer Science Student
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          IDE:........................VS Code
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.
-  .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Programming:......Java, Python, C
-  .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Web:..............React, JavaScript, CSS
+  .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Programming:......Java, Python, C, Swift, TypeScript
+  .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Web:..............React, JavaScript, CSS, HTML
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Real:.............English, Spanish
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Hobbies.Software:..........Web Development
