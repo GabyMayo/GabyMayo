@@ -8,7 +8,7 @@
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          IDE:........................VS Code
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Programming:......Java, Python, C, Swift, TypeScript
-  .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Web:..............React, JavaScript, Tailwind CSS
+  .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Web:..............React, HTML, CSS, JavaScript, Tailwind CSS
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Languages.Real:.............English, Spanish
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.
   .*@@@@@@@@@@@%: :@@@@@@@@@@@@+.          Hobbies.Software:..........Web Development
