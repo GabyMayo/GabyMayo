@@ -17,6 +17,6 @@
   .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Contact
   .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Email.Personal:............gabmayotru@email.com
   .*@@@@@@@@@+       +@@@@@@@@@+.          Email.School:..............mayorgag@purdue.edu
-  .*@@@@#:.   B  T  S   .-#@@@@+.          LinkedIn:..................linkedin.com/in/gabriela-mayorga-trujillo-555b852a9/
+  .*@@@@#:.     BTS     .-#@@@@+.          LinkedIn:..................linkedin.com/in/gabriela-mayorga-trujillo-555b852a9/
   .*@@*:.                ..:*@@+.          GitHub:....................github.com/GabyMayo        
 ```
