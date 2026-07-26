@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**GabyMayo/GabyMayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+  .*@@*:.                ..:*@@+.          gabymayo
+  .*@@@@#:.             .-#@@@@+.          --------------------------------
+  .*@@@@@@@@@+..   ..+@@@@@@@@@+.          OS:.........................macOS
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Uptime:.....................Since 2025
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Host:.......................Purdue University
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Kernel:.....................Computer Science
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          IDE:........................VS Code
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Languages.Programming:......Java, Python, C
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Languages.Web:..............React, JavaScript, CSS
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Languages.Real:.............English, Spanish
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Hobbies.Software:..........Web Development
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Hobbies.Hardware:..........Robotics, Aerospace
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Contact
+  .*@@@@@@@@@@@%:.:@@@@@@@@@@@@+.          Email.Personal:............gabmayotru@email.com
+  .*@@@@@@@@@+       +@@@@@@@@@+.          Email.School:..............mayorgag@purdue.edu
+  .*@@@@#:.             .-#@@@@+.          LinkedIn:..................linkedin.com/in/gabriela-mayorga-trujillo-555b852a9/
+  .*@@*:.                ..:*@@+.          GitHub:....................github.com/GabyMayo        
+```
